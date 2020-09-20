@@ -1,0 +1,4 @@
+baseURL = "http://pi.guillaumedumoulin.fr"
+languageCode = "fr-FR"
+title = "My New Hugo Site"
+theme = "geekdoc"
